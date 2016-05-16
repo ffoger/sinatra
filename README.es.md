@@ -1,4 +1,4 @@
-# Sinatra
+# Sinatra 1
 
 *Atención: Este documento es una traducción de la versión en inglés y puede estar desactualizado.*
 
